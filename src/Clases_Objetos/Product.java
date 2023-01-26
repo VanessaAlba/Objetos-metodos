@@ -21,7 +21,7 @@ public class Product {
 		this.stock=stock;
 	}
 	public Product() {
-		
+		System.out.printnln("Hola mundo");
 	}
 	public void setIdProduct(int idProduct) {
 		this.idProduct=idProduct;
